@@ -1,0 +1,14 @@
+/*!
+\mainpage
+
+Usage of an awesome MATLAB function:
+\code{.m}
+>> hello();
+Hello, World!
+\endcode
+
+This is the source file:
+
+\include hello.m
+
+*/
